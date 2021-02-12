@@ -5,9 +5,9 @@ I aim to find out if the most listened to genres are correlated to the popular d
 
 This project will differ from my previous work, interms of, the process. 
 Within this project I will go through the 6 steps of completing a data project:
-- 1) Project planning
-- 2) Data collection
-- 3) Data cleaning
-- 4) Data exploration
-- 5) Data visualisation 
-- 7) Reporting or documenting the project 
+1) Project planning
+2) Data collection
+3) Data cleaning
+4) Data exploration
+5) Data visualisation 
+7) Reporting or documenting the project 

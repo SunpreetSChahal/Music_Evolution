@@ -3,6 +3,7 @@
 Introduction:
 We have seen genres of music rise and fall. Once being the sound of the world, seemingly fade away. 
 Every decade or generation seem give rise to a new sound or creating a new genre.
+
 Drugs come into the equation as it's known that different genres of music within various time periods had a spcific substance associated with it, for example;
 
 - Reggae and marijuana, the typical sound of reggae is slow and relaxing, much like the effects of the substance associated with the genre. (https://www.nhs.uk/live-well/healthy-body/cannabis-the-facts/)

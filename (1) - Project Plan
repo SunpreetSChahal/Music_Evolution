@@ -1,3 +1,9 @@
+## Plan:
+1) Create a new Jupyter file - "History of Music and Drugs"
+2) Load in all datasets that I will be using - primarily the spotify dataset
+3) 
+
+
 For this project I will need to find regarding:
 1)Drug Usage/Popularity data - drug data/source providing information of the popular drugs per decade or year. If there is a lack of records but qualitative resources, 
 I will have to reference the popular drug of each decade and contextualize a pattern. 
@@ -10,8 +16,3 @@ splitting the most popular genres into decennial pies, and creating bar/line gra
 - https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks?select=data.csv
 
 Above are a few sources that I will be using during my analysis.
-
-Plan:
-1) Create a new Jupyter file - "History of Music and Drugs"
-2) Load in all datasets that I will be using - primarily the spotify dataset
-3) 

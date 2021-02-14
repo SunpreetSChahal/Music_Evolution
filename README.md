@@ -8,7 +8,8 @@ I aim to visualise and analyse the development of music over the past 100 years.
 
 I will provide context behind the shifts of music, contextualizing the shifts though factors such as:
 
-- Changing interests - A party fuelled generation or era that requires a new sound to fit the new hobbies
+- Changing interests - A party fuelled generation or era that requires a new sound to fit the new hobbies.
+  - The 1970s - The Disco Era; an era fuelled on partying, spawning world-renowned artists such as; The Rolling Stones, Led Zeppelin and many more. The sound that these artists produced fit the era they were representing. 
 
 - Use of drugs, for example;
   - Reggae music and marijuana, the typical sound of reggae is slow and relaxing, much like the effects of the substance associated with the genre. (https://www.nhs.uk/live-well/healthy-body/cannabis-the-facts/)

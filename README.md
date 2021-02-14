@@ -2,7 +2,7 @@
 
 Introduction:
 We have seen genres of music rise and fall. Once being the sound of the world, seemingly fade away. 
-Every decade or generation seem give rise to a new sound or creating a new genre.
+Every decade or generation seem give rise to a new sound or creats a whole new genre to fit the changing lives of people and atmosphere at the time.
 
 I aim to visualise and analyse the development of music over the past 100 years. 
 

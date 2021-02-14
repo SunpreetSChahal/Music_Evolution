@@ -1,7 +1,0 @@
-The process of analysis:
-1) Collect and localise date - I have located the sources, place all the data/websites within a dedicated folder
-2) Create a new Juypyter notebook.
-3) Complete the set-up and break-up the notebook into different sections.
-4) View the databases that will be used and drop any columns that don't fit with our general problem and end analysis.
-5) Make sure to replace any spaces with underscores - making columns/specific values callable.
-6)

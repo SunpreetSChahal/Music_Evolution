@@ -1,16 +1,20 @@
-# Drugs & Music
+# Music Evolution
 
 Introduction:
 We have seen genres of music rise and fall. Once being the sound of the world, seemingly fade away. 
 Every decade or generation seem give rise to a new sound or creating a new genre.
 
-Drugs come into the equation as it's known that different genres of music within various time periods had a spcific substance associated with it, for example;
+I aim to visualise and analyse the development of music over the past 100 years. 
 
-- Reggae and marijuana, the typical sound of reggae is slow and relaxing, much like the effects of the substance associated with the genre. (https://www.nhs.uk/live-well/healthy-body/cannabis-the-facts/)
-- Metal and cocaine/alcohol, the typical sound of metal is energetic and exhilarating, much like the effects of the substance(s) associated with the genre. (https://www.drugabuse.gov/publications/research-reports/cocaine/what-are-short-term-effects-cocaine-use)
+I will provide context behind the shifts of music, contextualizing the shifts though factors such as:
 
-The topic of the project is; The relation of the most-used drugs every 5-10 years, and the most popular genre of music.
-I aim to find out if the most listened to genres are correlated to the popular drugs that were used during that time, or if the shift in substance use birthed a new sub-genre. 
+- Changing interests - A party fuelled generation or era that requires a new sound to fit the new hobbies
+
+- Use of drugs, for example;
+  - Reggae music and marijuana, the typical sound of reggae is slow and relaxing, much like the effects of the substance associated with the genre. (https://www.nhs.uk/live-well/healthy-body/cannabis-the-facts/)
+  - Metal music and cocaine/alcohol, the typical sound of metal is energetic and exhilarating, much like the effects of the substance(s) associated with the genre. (https://www.drugabuse.gov/publications/research-reports/cocaine/what-are-short-term-effects-cocaine-use)
+
+
 
 This project will differ from my previous work, interms of, the process. 
 Within this project I will go through the 6 steps of completing a data project:

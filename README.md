@@ -16,12 +16,3 @@ I will provide context behind the shifts of music, contextualizing the shifts th
   - Metal music and cocaine/alcohol, the typical sound of metal is energetic and exhilarating, much like the effects of the substance(s) associated with the genre. (https://www.drugabuse.gov/publications/research-reports/cocaine/what-are-short-term-effects-cocaine-use)
 
 
-
-This project will differ from my previous work, interms of, the process. 
-Within this project I will go through the 6 steps of completing a data project:
-1) Project planning
-2) Data collection
-3) Data cleaning
-4) Data exploration
-5) Data visualisation 
-7) Reporting or documenting the project 
